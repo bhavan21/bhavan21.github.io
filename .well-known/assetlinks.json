@@ -1,10 +1,11 @@
-[{
- "relation": ["delegate_permission/common.handle_all_urls"],
- "target": {
-   "namespace": "android_app",
-   "package_name": "app.adobe.ngl.twa",
-   "sha256_cert_fingerprints": [
-     "A9:EC:15:B2:E0:0A:92:83:05:EF:18:A9:E4:92:D3:29:FF:3C:96:F6:41:DA:28:F7:A2:2D:CE:2D:54:F6:CC:1E"
-   ]
- }
-}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.adobe.ngl.twa",
+      "sha256_cert_fingerprints":
+        ["A9:EC:15:B2:E0:0A:92:83:05:EF:18:A9:E4:92:D3:29:FF:3C:96:F6:41:DA:28:F7:A2:2D:CE:2D:54:F6:CC:1E"]
+    }
+  }
+]
